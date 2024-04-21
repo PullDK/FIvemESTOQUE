@@ -45,7 +45,7 @@ Contribuições são bem-vindas! Se você encontrou um bug, tem uma ideia para u
 
 ## Autor
 
-Nome do Autor - [Link para o Perfil](https://github.com/PullDK)
+[PullDK](https://github.com/PullDK)
 
 ## Licença
 
