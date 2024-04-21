@@ -23,7 +23,7 @@ O Gerenciador de Recursos foi desenvolvido utilizando HTML, CSS e JavaScript. El
 
 ## Capturas de Tela
 
-![Captura de Tela 1](screenshot1.png)
+![Captura de Tela 1](https://github.com/PullDK/FIvemESTOQUE/blob/main/img/captura_de_tela1.png)
 *Descrição da captura de tela 1.*
 
 ![Captura de Tela 2](screenshot2.png)
