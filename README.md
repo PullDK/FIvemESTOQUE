@@ -15,7 +15,17 @@ O Gerenciador de Recursos permite que você:
 
 ## Uso
 
-Para utilizar o Gerenciador de Recursos, basta acessar o [site](link_para_o_seu_site) e seguir as instruções na interface.
+Para utilizar o Gerenciador de Recursos, basta acessar o [site](https://pulldk.github.io/FIvemESTOQUE/) e seguir as instruções na interface.
+
+## Edição de Dados
+
+Ao clicar para editar os dados, o site solicitará que você escolha um número de 1 a 5 para selecionar o recurso que deseja editar. Abaixo está a lista de recursos disponíveis para edição:
+
+1. Alumínio
+2. Cobre
+3. Plástico
+4. Titânio
+5. Vidros
 
 ## Recursos Técnicos
 
