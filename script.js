@@ -11,7 +11,7 @@ function criarDadosLocalmente() {
         "Passaporte": "Digite seu passaporte",
         "MINHA META": {
             "ALUMINIO": "0/700",
-            "COBRE": "0/215",
+            "COBRE": "0/700",
             "PLASTICOS": "0/910",
             "TITANIOS": "0/60",
             "VIDROS": "0/1400"
